@@ -89,4 +89,5 @@ lib/
 ## 📸 Screenshots
 
 ### 🔐 Login
+![image alt](https://github.com/aryanikhil2812/jobmate/blob/aa7cb41bcd2682abf695287a648e3730519f6775/Screenshot_2026-09-25-13-26-07-54_93dde8a4984b3eb6ef5d741ad47f8280.jpg)
 
