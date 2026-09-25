@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167504854839",
+    "project_id": "jobmate-4d082",
+    "storage_bucket": "jobmate-4d082.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167504854839:android:065d64dfcd74666475e4b2",
+        "android_client_info": {
+          "package_name": "com.example.jobmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdoO7uoFq01LsJZfo_-6yJwYoMvD3lvS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
